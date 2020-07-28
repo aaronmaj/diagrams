@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-28T12:47:47.690Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="5Mebn6ntgsrglWW_WPWp" version="13.5.4" type="github">
+<mxfile modified="2020-07-28T12:48:28.718Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OvHXnKXsOcVzDmpppV9K" version="13.5.4" type="github">
   <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -64,10 +64,10 @@
           <mxGeometry x="1010" y="190" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IGD-j1G_IqfU7hNhVimZ-43" value="&lt;b&gt;Proxy Web Server&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="285" width="120" height="20" as="geometry" />
+          <mxGeometry x="315" y="230" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IGD-j1G_IqfU7hNhVimZ-44" value="&lt;b&gt;Core Agency Banking&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="285" width="140" height="20" as="geometry" />
+          <mxGeometry x="460" y="290" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IGD-j1G_IqfU7hNhVimZ-45" value="&lt;b&gt;Master Database Server&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="210" width="150" height="20" as="geometry" />
