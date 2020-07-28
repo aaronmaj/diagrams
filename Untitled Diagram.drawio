@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-28T12:44:59.880Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="LKK08HVJ3qr5-OWhCKKA" version="13.5.4" type="github">
+<mxfile modified="2020-07-28T12:45:49.110Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="y4_tp9HVylVafDsf5R1i" version="13.5.4" type="github">
   <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
     <mxGraphModel dx="2037" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="430" y="360" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IGD-j1G_IqfU7hNhVimZ-7" value="&lt;b&gt;User and Agent devices&lt;/b&gt;" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry y="157" width="100" height="73" as="geometry" />
+          <mxGeometry x="15" y="157" width="100" height="73" as="geometry" />
         </mxCell>
         <mxCell id="IGD-j1G_IqfU7hNhVimZ-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IGD-j1G_IqfU7hNhVimZ-29" target="IGD-j1G_IqfU7hNhVimZ-5">
           <mxGeometry relative="1" as="geometry" />
