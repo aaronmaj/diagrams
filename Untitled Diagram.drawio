@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-28T12:48:45.427Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="nQ5y4TBU0ubMLWLKrzCg" version="13.5.4" type="github">
+<mxfile modified="2020-07-28T12:49:17.513Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="M5i08jKp0bXDNJwUT-Me" version="13.5.4" type="github">
   <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="80" width="830" height="430" as="geometry" />
         </mxCell>
         <mxCell id="mpq5AgpwV83IM184FDqD-40" value="MCASH UGANDA SERVERS TOPOLOGY" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="580" height="30" as="geometry" />
+          <mxGeometry x="320" y="40" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IGD-j1G_IqfU7hNhVimZ-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="IGD-j1G_IqfU7hNhVimZ-1" target="IGD-j1G_IqfU7hNhVimZ-4">
           <mxGeometry relative="1" as="geometry" />
